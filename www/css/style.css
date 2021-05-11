@@ -1,0 +1,14 @@
+/**/
+
+section{
+    margin: 3rem;
+}
+
+#exampleModalLabel{
+    text-align: center;
+}
+
+.form-group{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
